@@ -65,7 +65,7 @@ require (
 	github.com/gophercloud/gophercloud v0.2.0
 	github.com/gophercloud/utils v0.0.0-20190124192022-a5c25e7a53a6
 	github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e // indirect
-	github.com/gorilla/websocket v0.0.0-20170319172727-a91eba7f9777 // indirect
+	github.com/gorilla/websocket v1.5.3 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.1.0
 	github.com/hashicorp/consul v1.4.0
 	github.com/hashicorp/errwrap v1.0.0
